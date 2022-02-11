@@ -43,7 +43,5 @@ const matias = {
 [![Linkedin: Matias Pujado](https://img.shields.io/badge/-matiaspujado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pujadomatias/)](https://www.linkedin.com/in/pujadomatias/)
 [![ProtonMail Badge](https://img.shields.io/badge/-matiaspujado@pm.me-c14438?style=flat-square&logo=ProtonMail&logoColor=white&color=000118&link=mailto:matiaspujado@pm.me)](mailto:matiaspujado@pm.me)
 [![Twitter: Matias Pujado](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fmatiaspujado)](https://twitter.com/matiaspujado)
-<a href="https://www.buymeacoffee.com/matiaspujado"><img alt="Buy me a coffee" width="30" height="30" src="https://media1.giphy.com/media/TDQOtnWgsBx99cNoyH/giphy.gif" ><a/>
-
 - 💼 Send me an [email](mailto:matiaspujado@pm.me)
 - 💬 Ask me about anything, I will be happy to help. :smiley:
