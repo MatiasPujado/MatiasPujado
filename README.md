@@ -6,6 +6,8 @@
 Hi! I am a self-taught Full Stack web developer who constantly seeks out innovative solutions to everyday problems. I have recently changed professions to do what I love the most: _write code_. I am looking forward to grow my developing skills to get my first job in this amazing digital world.
 I am also a junior Information Systems Engineer student at UTN-FRM where I have honed my analytical thinking and collaboration skills working in different group projects.
 
+<br>
+
 ## A bit more about me
 
 ```javascript
