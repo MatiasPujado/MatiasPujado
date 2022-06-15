@@ -1,4 +1,4 @@
-# Hello there, my name is Matias <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img width="350" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611a951d538e3975b605f36a408d6a8b74bd6bc91a1&rid=giphy.gif&ct=g" alt="Developer" align="right" >
+# Hello there, my name is Matias <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving hand" width="25"> <img width="350" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611a951d538e3975b605f36a408d6a8b74bd6bc91a1&rid=giphy.gif&ct=g" alt="Developer" align="right" >
 
 ![Profile visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=matiaspujado.matiaspujado&left_color=gray&right_color=blue)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
